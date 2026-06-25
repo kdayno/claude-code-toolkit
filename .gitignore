@@ -1,0 +1,8 @@
+# Never commit real, machine-specific or secret-bearing config to this public repo.
+settings.local.json
+.mcp.json
+config/settings.json
+config/mcp.json
+
+# OS noise
+.DS_Store

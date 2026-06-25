@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "kdayno",
+  "description": "Kevin Dayno's personal Claude Code toolkit",
+  "owner": { "name": "Kevin Dayno", "email": "kdayno@users.noreply.github.com" },
+  "plugins": [
+    {
+      "name": "personal-toolkit",
+      "description": "Personal skills, commands, agents, and hooks",
+      "source": "./plugins/personal-toolkit"
+    }
+  ]
+}
