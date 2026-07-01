@@ -5,9 +5,19 @@
   "owner": { "name": "Kevin Dayno", "email": "kdayno@users.noreply.github.com" },
   "plugins": [
     {
-      "name": "personal-toolkit",
-      "description": "Personal skills, commands, agents, and hooks",
-      "source": "./plugins/personal-toolkit"
+      "name": "toolkit-core",
+      "description": "The /vendor-skill command and meta tooling",
+      "source": "./plugins/toolkit-core"
+    },
+    {
+      "name": "git-tools",
+      "description": "Git workflow skills (conventional commits, etc.)",
+      "source": "./plugins/git-tools"
+    },
+    {
+      "name": "creative",
+      "description": "Creative / generative-art skills",
+      "source": "./plugins/creative"
     }
   ]
 }

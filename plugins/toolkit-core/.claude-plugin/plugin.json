@@ -1,0 +1,6 @@
+{
+  "name": "toolkit-core",
+  "description": "Kevin Dayno's core toolkit: the /vendor-skill command and meta tooling",
+  "version": "0.1.0",
+  "author": { "name": "Kevin Dayno", "email": "kdayno@users.noreply.github.com" }
+}
