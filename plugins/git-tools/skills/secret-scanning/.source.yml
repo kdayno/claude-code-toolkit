@@ -1,0 +1,6 @@
+source_repo:   https://github.com/github/awesome-copilot
+source_ref:    main
+source_path:   skills/secret-scanning
+source_commit: a4aebcd4bd354b59a6a6c12ab9c5c98a9d9e0276
+vendored_on:   2026-07-01
+notes:         ""
