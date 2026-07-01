@@ -32,8 +32,9 @@ plugin. Splitting lets users install only what they want per machine.
 .claude-plugin/marketplace.json   # lists all plugins (name + relative source path)
 plugins/
   toolkit-core/   # the /vendor-skill command + hello-world example
-  git-tools/      # git-commit skill
+  git-tools/      # git-commit, secret-scanning skills
   creative/       # algorithmic-art skill
+  writing/        # writing / prose skills
 config/           # sanitized *.example.json templates for user settings.json + MCP config
 ```
 

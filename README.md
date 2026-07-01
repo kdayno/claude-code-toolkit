@@ -5,8 +5,8 @@ skills, slash commands, subagents, and hooks — kept in one versioned place and
 on any machine.
 
 This repo is a **self-hosted plugin marketplace**: it is both a catalog (`kdayno`) and the
-plugins it ships (`toolkit-core`, `git-tools`, `creative`). "Marketplace" here just means a catalog
-file in this repo — nothing is published to any external registry.
+plugins it ships (`toolkit-core`, `git-tools`, `creative`, `writing`). "Marketplace" here just means a
+catalog file in this repo — nothing is published to any external registry.
 
 ## Install
 
@@ -29,8 +29,9 @@ Browse and enable/disable installed plugins anytime with `/plugin`.
 .claude-plugin/marketplace.json     # the catalog (lists all plugins below)
 plugins/
   ├── toolkit-core/                 # /vendor-skill command + hello-world example
-  ├── git-tools/                    # git workflow skills (git-commit)
-  └── creative/                     # generative-art skills (algorithmic-art)
+  ├── git-tools/                    # git workflow skills (git-commit, secret-scanning)
+  ├── creative/                     # generative-art skills (algorithmic-art)
+  └── writing/                      # writing / prose skills
 config/                             # sanitized templates for settings.json & MCP config
 ```
 

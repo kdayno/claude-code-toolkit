@@ -18,6 +18,11 @@
       "name": "creative",
       "description": "Creative / generative-art skills",
       "source": "./plugins/creative"
+    },
+    {
+      "name": "writing",
+      "description": "Writing / prose skills",
+      "source": "./plugins/writing"
     }
   ]
 }
