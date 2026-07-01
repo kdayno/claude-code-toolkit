@@ -36,7 +36,9 @@ config/                             # sanitized templates for settings.json & MC
 ```
 
 The `personal-toolkit` plugin currently ships a `hello-world` example skill — replace it
-with your own.
+with your own. To import skills found online, use the `/vendor-skill` command, which copies a
+skill in and records its source for deliberate updates — see the
+[plugin README](./plugins/personal-toolkit/README.md#vendoring-external-skills).
 
 ## Config templates
 
