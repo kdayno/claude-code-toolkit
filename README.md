@@ -31,7 +31,7 @@ plugins/
   ├── toolkit-core/                 # /vendor-skill command + hello-world example
   ├── git-tools/                    # git workflow skills (git-commit, secret-scanning)
   ├── creative/                     # generative-art skills (algorithmic-art)
-  └── writing/                      # writing / prose skills
+  └── writing/                      # writing / prose skills (humanizer)
 config/                             # sanitized templates for settings.json & MCP config
 ```
 

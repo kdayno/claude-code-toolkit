@@ -1,0 +1,6 @@
+source_repo:   https://github.com/blader/humanizer
+source_ref:    main
+source_path:   .
+source_commit: 1b48564898e999219882660237fde01bf4843a0f
+vendored_on:   2026-07-01
+notes:         "Vendored SKILL.md + LICENSE only; excluded upstream .claude-plugin/, AGENTS.md, README.md."
